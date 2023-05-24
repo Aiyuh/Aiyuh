@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Aiyuh
 - 👀 I’m interested in GNU/Linux, Free & Open Source Software, Online Privacy & Cybersecurity.
-- 🌱 I’m currently studying Cybersecurity at University.
 - 📫 Contact me at hi@aiyuh.com
 
 <!---
